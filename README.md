@@ -8,4 +8,6 @@
 
 
 ## 🎵
-![spotify](https://spotify-recently-played-readme.vercel.app/api?user=piko_ax&width=600)
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=piko_ax&width=600!)
+
+[アイコンはぷしおメーカーで作成しました](https://vps1-net000.sfc.keio.ac.jp/pushiomaker/)
