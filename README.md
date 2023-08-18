@@ -1,4 +1,6 @@
 ## 🎏
+![moe counter](https://count.getloli.com/get/@fastsnowy)
+
 ![summary cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fastsnowy&theme=tokyonight)
 
 ![faastsnowy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastsnowy&theme=tokyonight)
